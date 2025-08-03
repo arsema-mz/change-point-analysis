@@ -45,8 +45,6 @@ The objective of this project is to analyze the impact of major geopolitical eve
   - Explore the incorporation of other data sources (e.g., GDP, inflation rates).
   - Consider advanced models like VAR or Markov-Switching to analyze dynamic relationships.
 
-**Planned:**
-
 ### Developing an Interactive Dashboard for Data Analysis Results
 
 **Planned:**
@@ -61,9 +59,3 @@ The objective of this project is to analyze the impact of major geopolitical eve
   
 - **Frontend (React):**
   - Design interactive features for exploring how events correlate with Brent oil prices, including filters and date ranges.
-
-## Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
