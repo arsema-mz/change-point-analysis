@@ -40,9 +40,6 @@ The objective of this project is to analyze the impact of major geopolitical eve
   - Describing the quantitative impact of events associated with change points (e.g., average daily price shifts).
 
 
-Of course! Here's the **Task 3 README section** written in clean **Markdown**:
-
-
 ### Developing an Interactive Dashboard for Data Analysis Results
 
 #### 🔧 Backend (Flask)
